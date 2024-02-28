@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "GluecksraD-rescue")(type "KiCad")(uri "${KIPRJMOD}/GluecksraD-rescue.kicad_sym")(options "")(descr ""))
+)

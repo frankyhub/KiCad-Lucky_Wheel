@@ -1,0 +1,13 @@
+#;Reference;Qty;Value;Footprint;DNP
+1;C1;1;1uF;Capacitor_THT:CP_Radial_D8.0mm_P2.50mm;
+2;C2;1;47uF;Capacitor_THT:CP_Radial_D8.0mm_P2.50mm;
+3;D1, D2, D3, D4, D5, D6, D7, D8, D9, D10;10;LED;LED_THT:LED_D5.0mm;
+4;J1;1;Conn_01x01_Female;;
+5;J2;1;Conn_01x01_Male;;
+6;Q1;1;BC107;Package_TO_SOT_THT:TO-18-3;
+7;R1, R3;2;470k;Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal;
+8;R2;1;10k;Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal;
+9;R4;1;1,2k;Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P12.70mm_Horizontal;
+10;SW1;1;SW_Push_Dual;Button_Switch_THT:SW_PUSH_6mm;
+11;U2;1;NE555P;Package_DIP:DIP-8_W7.62mm;
+12;U3;1;4017;Package_DIP:DIP-16_W7.62mm;
