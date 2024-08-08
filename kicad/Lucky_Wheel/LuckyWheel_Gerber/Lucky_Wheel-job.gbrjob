@@ -3,14 +3,14 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "8.0.1"
+      "Version": "7.0.8"
     },
-    "CreationDate": "2024-04-02T10:16:43+02:00"
+    "CreationDate": "2024-08-08T21:44:56+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "GluecksraD",
-      "GUID": "476c7565-636b-4737-9261-442e6b696361",
+      "Name": "Lucky_Wheel",
+      "GUID": "4c75636b-795f-4576-9865-656c2e6b6963",
       "Revision": "rev?"
     },
     "Size": {
@@ -24,45 +24,45 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
       "TrackToTrack": 0.2,
       "MinLineWidth": 0.25
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "GluecksraD-F_Cu.gbr",
+      "Path": "Lucky_Wheel-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "GluecksraD-B_Cu.gbr",
+      "Path": "Lucky_Wheel-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "GluecksraD-F_Silkscreen.gbr",
+      "Path": "Lucky_Wheel-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "GluecksraD-B_Silkscreen.gbr",
+      "Path": "Lucky_Wheel-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "GluecksraD-F_Mask.gbr",
+      "Path": "Lucky_Wheel-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "GluecksraD-B_Mask.gbr",
+      "Path": "Lucky_Wheel-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "GluecksraD-Edge_Cuts.gbr",
+      "Path": "Lucky_Wheel-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
@@ -78,29 +78,24 @@
     },
     {
       "Type": "SolderMask",
-      "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "F.Cu"
     },
     {
       "Type": "Dielectric",
-      "Thickness": 1.51,
       "Material": "FR4",
       "Name": "F.Cu/B.Cu",
       "Notes": "Type: dielectric layer 1 (from F.Cu to B.Cu)"
     },
     {
       "Type": "Copper",
-      "Thickness": 0.035,
       "Name": "B.Cu"
     },
     {
       "Type": "SolderMask",
-      "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
     {
