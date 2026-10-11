@@ -18,7 +18,7 @@
 ### Mit einem Tastendruck starten wir den immer langsam werdenden LED-Umlauf. Irgendwann stoppt der LED-Umlauf und zeigt dir deine Glückszahl. Hast du richtig getippt?
 
 
-<img src="pic/luckywheel_F.png" width="500"> <img src="pic/luckywheel_8.png" width="500"> 
+<img src="pic/luckywheel_F.png" width="500"> 
 <br> <br>
 
 
